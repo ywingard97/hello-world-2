@@ -1,6 +1,6 @@
 # hello-world-2
 
-a simple website
+a simple but interesting website
 
 *Yvonne Wingard*
 
