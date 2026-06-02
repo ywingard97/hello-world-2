@@ -8,7 +8,7 @@ This site is made with {term} `myst `
 I am learning to use ML and AI for digital humanities research 
 
 :::{figure} Wingard_Poster.png
-    :label: human-nature connection overview
-    :alt: post showcasing overview of the human-nature connection presentation
+:label: human-nature connection overview
+:alt: post showcasing overview of the human-nature connection presentation
 Presentation poster from Spring 2026
 :::
