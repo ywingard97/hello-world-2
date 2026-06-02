@@ -2,12 +2,16 @@
 version: 1
 project:
   id: 3d6809f9-ae43-4993-bfb7-652c62c82c02
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: My Practice Website
+  description: a practice website for the repository online
+  keywords: [coding]
+  authors: ["Yvonne Wingard"]
   github: https://github.com/ywingard97/hello-world-2
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  abbreviations:
+    ML: machine learning
+    AI: artificial intelligence
+
 site:
   template: book-theme
   # options:
